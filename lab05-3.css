@@ -1,0 +1,34 @@
+body.daymode{
+    background-color: white;
+    color: black;
+}
+
+span.daymode{
+    color: red;
+}
+
+button.daymode{
+    background-color: white;
+    border: 2px solid black;
+    width: 180px;
+    padding: 2px;
+    margin: 8px;
+}
+
+body.nightmode{
+    background-color: black;
+    color: white;
+}
+
+span.nightmode{
+    color: blue;
+}
+
+button.nightmode{
+    background-color: darkgray;
+    border: 2px solid white;
+    color: white;
+    width: 180px;
+    padding: 2px;
+    margin: 8px;
+}
